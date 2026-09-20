@@ -1,2 +1,3 @@
-2026/09/20-17:06:18.072 3004c Creating DB C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/09/20-17:06:18.112 3004c Reusing MANIFEST C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/20-17:20:52.049 9394 Reusing MANIFEST C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/20-17:20:52.077 9394 Recovering log #3
+2026/09/20-17:20:52.083 9394 Reusing old log C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
