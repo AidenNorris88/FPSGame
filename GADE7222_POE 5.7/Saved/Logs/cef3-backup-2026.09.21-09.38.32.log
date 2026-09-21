@@ -1,0 +1,24 @@
+[26412:21312:0921/112703.132:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26412:4240:0921/112703.756:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26412:21312:0921/112704.003:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26412:4240:0921/112720.315:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26412:4240:0921/112720.324:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26412:4240:0921/112720.326:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26412:4240:0921/112720.328:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26412:4240:0921/112725.299:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26412:4240:0921/112725.302:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26660:27012:0921/112729.312:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-80ED9D4E36091C64DA51D769BECF24DC will be ignored
+[26412:24812:0921/112731.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26412:4240:0921/112816.241:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27116:4288:0921/112816.308:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26412:21312:0921/112821.059:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26412:4240:0921/112821.247:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27116:4288:0921/112821.368:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26412:4240:0921/112831.253:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27116:4288:0921/112831.391:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26412:4240:0921/112851.259:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27116:4288:0921/112851.398:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26412:24812:0921/112956.554:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26412:24812:0921/113027.383:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26412:24812:0921/113228.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26412:21312:0921/113832.352:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

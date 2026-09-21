@@ -1,6 +1,3 @@
-2026/09/20-18:13:38.390 2babc Log #6: 1 ops saved to Table #7 OK
-2026/09/20-18:13:38.393 2babc Archiving C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/09/20-18:13:38.404 2babc Table #4: 3 entries OK
-2026/09/20-18:13:38.405 2babc Table #7: 1 entries OK
-2026/09/20-18:13:38.420 2babc Archiving C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/09/20-18:13:38.433 2babc **** Repaired leveldb C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 369 bytes. Some data may have been lost. ****
+2026/09/21-11:27:04.223 35cc Reusing MANIFEST C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/21-11:27:04.261 35cc Recovering log #9
+2026/09/21-11:27:04.267 35cc Reusing old log C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
