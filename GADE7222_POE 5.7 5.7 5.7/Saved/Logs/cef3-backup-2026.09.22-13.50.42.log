@@ -1,0 +1,20 @@
+[33248:33252:0922/154600.928:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33248:33068:0922/154601.279:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33248:33252:0922/154601.488:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33248:33068:0922/154618.319:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33248:33068:0922/154618.325:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33248:33068:0922/154618.329:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33248:33068:0922/154618.335:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33248:33252:0922/154624.620:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:32288:0922/154639.985:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33248:32288:0922/154639.992:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18360:30084:0922/154641.932:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-45358299D8628D11F622EC6A53FF1D5D will be ignored
+[33248:33252:0922/154704.640:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/154709.638:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/154714.651:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/154719.674:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/154724.694:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/154754.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/155041.002:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/155041.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33248:33252:0922/155042.455:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

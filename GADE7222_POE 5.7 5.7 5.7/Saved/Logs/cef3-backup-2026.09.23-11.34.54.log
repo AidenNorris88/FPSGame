@@ -1,0 +1,43 @@
+[9688:9672:0923/123703.798:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9688:10308:0923/123704.156:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9688:9672:0923/123704.368:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9688:10308:0923/123716.609:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9688:10308:0923/123716.614:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9688:10308:0923/123716.619:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9688:10308:0923/123716.622:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9688:9672:0923/123729.106:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:48644:0923/123729.625:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9688:48644:0923/123729.634:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9688:9672:0923/123733.931:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-24790A91C806AE76AC2E3868B1B9B826 (has_rfh=1)
+[48228:44436:0923/123734.018:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B4FEEA96090FFF299F5EC00E6B146414 will be ignored
+[44788:47460:0923/124928.391:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-214AF24112CADB9D2B48469AC5915461 will be ignored
+[43368:47112:0923/125016.887:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[43368:45076:0923/125017.253:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[43368:47112:0923/125018.369:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[43368:45076:0923/125019.033:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[9688:9672:0923/125050.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125055.280:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125235.326:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125438.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125443.030:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125553.347:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125558.362:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125603.363:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125608.369:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125613.427:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125618.435:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125623.437:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125628.458:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125633.461:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/125658.905:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9688:9672:0923/133454.137:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
