@@ -1,3 +1,7 @@
-2026/09/23-12:37:04.506 2844 Reusing MANIFEST C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/09/23-12:37:04.525 2844 Recovering log #9
-2026/09/23-12:37:04.528 2844 Reusing old log C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+2026/09/24-11:27:01.844 2b004 Log #9: 17 ops saved to Table #10 OK
+2026/09/24-11:27:01.850 2b004 Archiving C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
+2026/09/24-11:27:01.864 2b004 Table #4: 3 entries OK
+2026/09/24-11:27:01.875 2b004 Table #7: 1 entries OK
+2026/09/24-11:27:01.875 2b004 Table #10: 17 entries OK
+2026/09/24-11:27:01.895 2b004 Archiving C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/09/24-11:27:01.918 2b004 **** Repaired leveldb C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 780 bytes. Some data may have been lost. ****
