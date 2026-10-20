@@ -59,6 +59,12 @@
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Fab/Low-Poly_First_Aid_Medkit__survival_medkit_/Material_014.uasset",
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/_GENERATED/Damon/Box_75750DF1.uasset",
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/_GENERATED/Damon/Box_00BCCADA.uasset",
+				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Pickups/BP_HealthPickup.uasset",
+				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Pickups/BP_ItemPickup.uasset",
+				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Items/BP_ItemMaster.uasset",
+				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Items/BP_HealthPickup.uasset",
+				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Blueprints/Bp_HealthComponent.uasset",
+				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Pickups/BP_PickupMaster_Child.uasset",
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Blueprints/WB_FPSHUD.uasset",
 				"C:/Users/Dell 5530/OneDrive/Documents/GitHub/FPSGame/GADE7222_POE 5.7/Content/BaseFloor.umap",
 				"C:/Users/Dell 5530/OneDrive/Documents/GitHub/FPSGame/GADE7222_POE 5.7/Content/Blueprints/GM_Main.uasset",
@@ -79,7 +85,6 @@
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Weapons/BP_Pistol.uasset",
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Fab/Pistol/3dm2b/StaticMeshes/3dm2b.uasset",
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Pickups/BP_PistolPickup.uasset",
-				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Pickups/BP_PickupMaster_Child.uasset",
 				"C:/Users/Damon/OneDrive - ADvTECH Ltd/Documents/GitHub/FPSGame/GADE7222_POE 5.7 5.7 5.7/Content/Props/Pickups/BP_WeaponPickup_Child.uasset"
 			]
 		}

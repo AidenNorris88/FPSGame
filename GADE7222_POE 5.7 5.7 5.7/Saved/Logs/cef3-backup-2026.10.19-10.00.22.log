@@ -1,0 +1,416 @@
+[59180:74588:1019/113017.582:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[59180:72032:1019/113018.094:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[59180:74588:1019/113018.303:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[74212:70776:1019/113032.752:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113032.762:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113033.647:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113033.657:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:72032:1019/113033.808:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[59180:72032:1019/113033.814:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[59180:72032:1019/113033.820:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[59180:72032:1019/113033.826:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[74212:70776:1019/113035.079:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113035.087:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113035.143:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113035.157:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113036.030:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113036.038:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113036.181:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113036.188:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113037.063:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113037.073:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113037.280:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113037.288:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113037.480:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113037.493:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113038.372:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113038.378:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113039.525:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113039.532:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113040.365:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113040.377:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113040.451:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113040.459:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113042.734:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113042.747:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113043.297:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113043.304:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113044.698:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113044.706:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113046.861:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113046.871:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113048.033:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113048.043:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:72032:1019/113050.134:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[59180:72032:1019/113050.139:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[74212:70776:1019/113051.397:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113051.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113053.087:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-18B71FBFAED985B54E0F02DC6A93FBA1 (has_rfh=1)
+[48668:73168:1019/113053.152:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-24823ED13BA656B821E5FF8B50115CFA will be ignored
+[74212:70776:1019/113053.946:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113053.954:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113054.835:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113054.844:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113102.314:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113102.322:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113104.547:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113104.560:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113106.135:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113106.146:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113109.342:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113114.186:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113118.294:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113118.305:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113118.638:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113118.648:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113119.223:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113122.581:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113122.590:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113124.280:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113129.306:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113134.356:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113140.156:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113140.168:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113141.823:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113141.842:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113145.078:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113145.097:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113154.686:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113204.743:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113216.081:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113216.092:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113216.392:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113216.408:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113223.323:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113223.331:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113244.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113249.987:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113255.010:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113300.047:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113304.565:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113304.583:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113305.172:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113310.172:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113313.466:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113313.473:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113315.191:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113316.642:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113316.654:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113320.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113325.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113330.214:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113335.217:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113340.217:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113345.409:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113350.543:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113355.794:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113400.806:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113405.836:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113410.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113416.144:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113420.894:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113420.905:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113421.171:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113426.172:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113431.194:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113431.634:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113431.644:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113436.339:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113437.411:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113437.422:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113441.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113446.477:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113451.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113456.682:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113501.622:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113506.674:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113511.736:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113516.789:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113526.931:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113532.113:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113537.112:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113542.113:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113547.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113552.127:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113557.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113602.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113607.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113612.135:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113614.425:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113614.439:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113617.683:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113622.739:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113623.057:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113623.065:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113627.760:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113632.760:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113639.417:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113639.427:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113648.125:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113658.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113703.559:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113708.575:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113713.575:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113718.575:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113723.577:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113728.600:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113733.599:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113738.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113743.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113749.065:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113754.065:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113759.064:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113804.070:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113809.082:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113814.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113819.210:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113824.347:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113829.347:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113834.375:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113839.401:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113844.443:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113849.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113854.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113859.524:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113904.525:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113908.355:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113908.368:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113909.532:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113918.362:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113919.891:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113919.899:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113923.793:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/113924.592:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/113924.600:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/113933.820:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113938.820:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113944.124:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113949.448:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/113954.120:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114001.934:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114006.773:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114011.782:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114026.817:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114046.926:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114052.017:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114101.974:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114107.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114112.032:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114117.133:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114122.243:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114127.241:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114132.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114137.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114227.587:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114232.587:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114237.587:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114242.589:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114252.590:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114257.590:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114302.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114307.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114312.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114317.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/114318.758:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/114318.769:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/114322.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/114323.431:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/114323.440:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/114327.593:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/114331.719:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/114331.726:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/114332.595:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114337.595:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114342.595:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114347.595:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114352.595:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114357.597:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114402.597:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114407.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114412.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114417.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114422.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114427.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114432.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114437.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114442.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114447.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114452.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114457.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114502.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114507.604:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114512.605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114517.604:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114522.605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114527.605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114532.607:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114537.609:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114542.609:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114547.608:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114552.609:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114557.609:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114602.610:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114607.612:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114612.613:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114617.615:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114622.634:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114627.634:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114632.636:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114637.636:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114642.636:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114647.638:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114652.638:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114657.638:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114702.639:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114707.640:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114712.639:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114717.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114722.643:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114727.642:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114732.643:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114737.644:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114742.645:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114747.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114752.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114757.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114802.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114807.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114812.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114817.648:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114822.648:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114827.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114832.649:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114837.649:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114842.649:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114847.648:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114852.649:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114857.649:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114902.649:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114907.651:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114912.659:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114917.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114922.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114927.659:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114932.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114937.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/114941.118:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/114941.143:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/114942.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114947.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114952.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/114957.659:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/115001.711:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/115001.724:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/115002.659:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115007.660:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115012.660:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115017.661:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115022.661:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115027.661:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/115032.431:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/115032.445:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/115032.662:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115037.660:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115042.660:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115047.662:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115052.662:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115057.662:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115102.665:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115107.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115112.670:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115117.670:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115122.670:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115127.670:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115132.669:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115137.670:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115207.701:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115212.706:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115217.706:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115222.708:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115227.772:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115232.778:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115240.098:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115245.125:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115250.140:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115255.165:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115300.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115305.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115310.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115315.292:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115320.350:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115325.370:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115330.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115335.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115340.687:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115345.740:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115350.818:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115355.958:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115400.990:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115406.033:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115411.044:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115416.049:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115421.137:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115426.140:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115431.188:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115436.198:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115441.205:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115446.240:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115451.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115456.243:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115501.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115506.292:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115511.306:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115516.345:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115521.381:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115526.465:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115531.466:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115536.566:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115542.556:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115547.493:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115552.521:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115557.529:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115602.554:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115607.632:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115612.760:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115617.767:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115622.767:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115627.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115632.962:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115637.962:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115703.452:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115708.452:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115713.549:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115718.577:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115723.850:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115728.852:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115734.169:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115739.167:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115744.168:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115752.058:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115757.051:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115801.958:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115807.254:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115812.233:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115817.456:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115822.769:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115828.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115833.096:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115850.651:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115900.162:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115905.138:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115910.154:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115915.197:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/115919.105:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/115919.123:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/115930.316:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115935.358:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115940.389:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115945.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115950.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/115955.476:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/120000.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[59180:74588:1019/120004.928:ERROR:device_event_log_impl.cc(196)] [12:00:04.893] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[59180:74588:1019/120005.566:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[74212:70776:1019/120006.960:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[74212:70776:1019/120006.983:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[59180:74588:1019/120022.526:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

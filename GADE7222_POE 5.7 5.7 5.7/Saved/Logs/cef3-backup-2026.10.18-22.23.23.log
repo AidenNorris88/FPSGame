@@ -1,0 +1,1056 @@
+[50876:23228:1018/225623.929:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[50876:53188:1018/225624.451:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[50876:23228:1018/225624.767:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[50876:53188:1018/225650.048:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[50876:53188:1018/225650.055:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[50876:53188:1018/225650.060:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[50876:53188:1018/225650.065:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[50876:52484:1018/225708.368:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[50876:52484:1018/225708.373:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9728:50860:1018/225710.444:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-284FFA364FA55A16F2F8927D1CFCC2DC will be ignored
+[50876:23228:1018/225717.690:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/225722.687:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/225727.690:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/225732.694:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230400.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230405.708:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230431.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230722.842:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230738.009:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230743.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230748.120:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230753.175:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230758.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230823.339:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230828.338:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230833.385:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230838.412:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230908.555:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230913.607:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230918.630:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230923.650:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/230935.107:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231000.259:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231015.362:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231028.321:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231033.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231038.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231043.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231048.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231053.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231133.656:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231143.753:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231148.771:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231153.780:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231158.846:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231203.860:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231208.869:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231909.415:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/231914.416:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232612.118:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232617.094:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232622.094:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232627.093:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232632.158:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232637.177:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232642.198:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232647.223:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232652.268:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232657.319:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232702.325:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232707.369:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232712.375:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232717.424:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232722.468:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232727.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232732.472:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232737.475:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232742.515:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232747.522:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232752.520:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232757.521:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232802.560:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232807.560:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232812.638:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232817.642:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232822.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232827.651:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232833.079:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232838.090:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232843.146:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232848.145:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232853.209:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232858.209:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232903.257:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232908.323:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232913.338:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232918.631:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232923.630:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232928.635:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232933.637:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232938.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232943.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232949.080:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232954.364:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/232959.372:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233004.372:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233009.371:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233014.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233019.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233024.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233029.374:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233034.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233039.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233044.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233049.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233054.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233059.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233104.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233109.378:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233114.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233119.378:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233124.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233129.378:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233134.377:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233139.377:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233144.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233149.381:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233154.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233159.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233204.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233209.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233214.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233219.381:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233224.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233229.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233234.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233239.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233244.384:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233249.386:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233254.387:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233259.387:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233304.387:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233309.388:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233314.389:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233319.389:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233324.390:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233329.392:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233334.391:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233339.390:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233344.391:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233349.391:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233354.390:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233359.394:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233404.395:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233409.416:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233414.726:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233419.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233424.729:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233429.729:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233434.728:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233439.728:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233559.735:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233600.073:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233629.739:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233634.739:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233654.738:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233714.739:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233719.740:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233724.741:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233729.741:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233734.742:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233739.742:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/233814.743:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234109.785:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234115.108:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234120.108:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234125.108:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234130.108:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234135.109:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234140.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234210.125:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234225.447:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234240.466:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234245.474:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234250.473:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234255.796:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234310.805:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234315.828:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234321.136:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234326.137:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234341.142:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234536.506:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234752.181:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234756.836:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234806.851:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234811.860:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234816.891:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234821.891:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234826.892:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234831.893:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234836.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234841.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234846.897:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234851.897:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234856.898:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234901.898:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234906.900:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234911.900:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234916.902:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234921.905:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234926.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234931.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234936.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234941.904:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234951.904:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/234956.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235001.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235006.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235011.910:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235016.909:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235021.920:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235027.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235032.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235037.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235042.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235047.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235052.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235057.249:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235102.249:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235107.249:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235112.254:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235117.254:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235122.255:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235127.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235132.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235137.255:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235142.255:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235147.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235152.260:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235157.261:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235202.259:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235207.260:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235212.261:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235217.262:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235222.261:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235227.261:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235232.262:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235237.266:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235242.264:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235247.265:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235252.266:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235257.268:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235302.268:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235307.270:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235312.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235317.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235322.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235327.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235332.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235337.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235342.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235347.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235352.272:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235357.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235402.276:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235407.276:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235412.277:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235417.277:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235422.277:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235427.277:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235432.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235437.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235442.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235447.279:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235452.280:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235457.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235512.279:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235522.280:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235527.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235532.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235537.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235542.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235547.298:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235552.297:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235557.303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235602.303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235607.303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235612.305:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235617.309:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235622.309:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235627.311:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235632.312:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235637.314:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235642.314:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235647.314:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235652.314:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235657.314:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235702.323:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235707.368:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235712.476:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235717.414:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235722.415:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235727.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235732.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235737.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235742.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235747.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235752.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235757.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235802.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235807.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235812.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235817.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235822.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235827.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235832.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235837.427:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235842.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235847.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235852.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235857.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235902.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235907.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235912.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235917.499:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235922.549:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235927.615:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235932.675:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235937.702:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235942.875:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235947.897:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235953.214:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1018/235958.215:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000003.221:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000007.222:VERBOSE1:device_event_log_impl.cc(198)] [00:00:07.192] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000007.223:VERBOSE1:device_event_log_impl.cc(198)] [00:00:07.225] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:23228:1019/000008.259:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000009.099:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000011.481:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:52396:1019/000012.426:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:23228:1019/000013.270:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000016.095:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000017.096:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:23228:1019/000018.319:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000019.097:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000021.112:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000022.097:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:52396:1019/000023.117:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:23228:1019/000023.351:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000024.182:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000025.122:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000026.106:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000027.113:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:23228:1019/000028.367:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000030.119:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000031.110:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:52396:1019/000032.108:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000033.107:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:23228:1019/000033.390:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000034.132:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000037.133:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:23228:1019/000038.411:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000040.129:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000041.121:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000042.138:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000043.117:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:23228:1019/000043.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000044.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000045.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000046.116:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000047.118:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/000048.128:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=40})
+[50876:23228:1019/000048.630:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000050.129:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=38})
+[50876:52396:1019/000051.133:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=40})
+[50876:52396:1019/000052.136:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/000053.124:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:23228:1019/000053.643:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000054.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000056.132:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000057.130:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:23228:1019/000058.707:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000100.131:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000101.127:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000103.155:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:23228:1019/000103.735:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000104.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000105.132:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000106.153:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000108.143:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:23228:1019/000108.764:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000109.143:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:52396:1019/000110.181:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000111.182:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000113.152:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:23228:1019/000113.771:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000114.144:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000115.147:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000116.150:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000118.157:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:23228:1019/000118.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000119.164:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000120.151:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000121.161:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:52396:1019/000122.162:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000123.148:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:23228:1019/000123.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000125.150:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000126.157:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000128.450:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:23228:1019/000128.883:VERBOSE1:device_event_log_impl.cc(198)] [00:01:28.853] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000128.886:VERBOSE1:device_event_log_impl.cc(198)] [00:01:28.886] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:23228:1019/000129.125:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000129.451:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000130.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000131.449:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:52396:1019/000132.462:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000133.490:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:23228:1019/000134.132:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000135.452:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000136.466:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:52396:1019/000137.456:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=59})
+[50876:52396:1019/000138.454:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:23228:1019/000139.132:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000139.457:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/000140.456:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:52396:1019/000141.460:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000143.452:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/000144.452:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:23228:1019/000144.453:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000145.453:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000147.452:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000149.454:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000154.457:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000159.462:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000204.474:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000209.469:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:23228:1019/000209.474:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000210.459:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:52396:1019/000212.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000213.459:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000214.807:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000219.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000224.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:23228:1019/000224.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000225.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000226.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:52396:1019/000227.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=39})
+[50876:52396:1019/000229.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:23228:1019/000229.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000230.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000231.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000232.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000233.486:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000234.473:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:23228:1019/000234.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000235.468:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000236.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:52396:1019/000237.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:52396:1019/000238.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000239.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000240.137:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000244.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000249.484:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:23228:1019/000249.812:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000250.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/000251.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000254.474:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:23228:1019/000254.812:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000255.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000256.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/000257.474:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/000258.474:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/000259.475:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:23228:1019/000259.812:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000301.480:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000302.479:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/000303.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/000304.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:23228:1019/000304.814:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000305.483:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:52396:1019/000306.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000307.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:52396:1019/000308.480:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:23228:1019/000309.815:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000310.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/000311.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000312.485:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:52396:1019/000314.477:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:23228:1019/000314.815:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000315.487:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:52396:1019/000316.482:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000319.814:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000324.814:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000326.479:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/000328.485:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000329.824:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000332.987:VERBOSE1:device_event_log_impl.cc(198)] [00:03:32.966] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000332.988:VERBOSE1:device_event_log_impl.cc(198)] [00:03:32.989] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:23228:1019/000334.853:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000338.267:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:52396:1019/000339.265:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:23228:1019/000339.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000340.258:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000341.270:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:52396:1019/000342.273:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000343.255:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000344.257:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:23228:1019/000344.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000345.256:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000346.568:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000347.564:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000348.569:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:52396:1019/000349.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:23228:1019/000349.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000350.566:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/000351.564:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000352.565:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000353.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/000354.565:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/000354.904:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000355.570:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/000356.565:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:52396:1019/000358.568:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000359.905:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000404.904:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000408.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/000409.568:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:23228:1019/000409.905:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000411.569:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000414.906:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000419.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000421.572:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:23228:1019/000422.084:VERBOSE1:device_event_log_impl.cc(198)] [00:04:22.083] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000422.084:VERBOSE1:device_event_log_impl.cc(198)] [00:04:22.083] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:52396:1019/000422.294:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/000423.294:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000424.807:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:23228:1019/000424.918:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000425.310:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/000426.298:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:52396:1019/000427.300:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000428.293:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000432.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000432.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/000432.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000433.320:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/000434.335:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000435.310:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:23228:1019/000437.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000438.300:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/000439.309:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000440.299:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000441.312:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000442.306:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:23228:1019/000443.056:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000444.359:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=40})
+[50876:52396:1019/000445.317:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:52396:1019/000447.318:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:23228:1019/000448.081:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000448.311:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:52396:1019/000449.303:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/000450.320:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=39})
+[50876:52396:1019/000452.312:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=40})
+[50876:23228:1019/000453.145:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000453.407:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000454.325:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000455.315:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000457.312:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:23228:1019/000458.146:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000500.332:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/000501.324:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000502.321:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:23228:1019/000503.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000503.314:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/000504.326:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=40})
+[50876:23228:1019/000508.235:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000509.555:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/000511.332:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:52396:1019/000512.332:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:23228:1019/000513.240:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000513.323:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=39})
+[50876:52396:1019/000515.627:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:23228:1019/000515.705:VERBOSE1:device_event_log_impl.cc(198)] [00:05:15.660] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000515.708:VERBOSE1:device_event_log_impl.cc(198)] [00:05:15.708] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:52396:1019/000516.624:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/000517.623:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:23228:1019/000518.129:VERBOSE1:device_event_log_impl.cc(198)] [00:05:18.129] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000518.129:VERBOSE1:device_event_log_impl.cc(198)] [00:05:18.129] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:23228:1019/000518.286:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000518.336:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000519.328:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:23228:1019/000519.880:VERBOSE1:device_event_log_impl.cc(198)] [00:05:19.881] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000519.880:VERBOSE1:device_event_log_impl.cc(198)] [00:05:19.881] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:52396:1019/000520.344:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000521.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:52396:1019/000522.578:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:23228:1019/000523.579:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000523.579:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/000524.578:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000525.577:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000526.581:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000527.582:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000528.581:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:23228:1019/000528.582:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000529.594:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000530.587:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:52396:1019/000531.584:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000532.588:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:52396:1019/000533.602:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:23228:1019/000533.602:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000534.588:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000535.584:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000536.587:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000537.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000538.583:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:23228:1019/000538.917:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000539.583:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000540.586:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000541.586:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000542.589:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:52396:1019/000543.587:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000543.926:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000548.930:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000553.930:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000558.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000603.600:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/000603.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000604.600:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/000605.599:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000607.596:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000608.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000613.934:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000617.602:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/000618.602:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000618.934:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000623.936:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000628.936:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000633.936:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000635.603:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000636.602:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/000637.605:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/000638.605:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000638.939:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000643.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000648.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000652.608:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:23228:1019/000653.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000656.607:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/000658.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000703.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000708.945:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000713.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000718.946:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000723.393:VERBOSE1:device_event_log_impl.cc(198)] [00:07:23.363] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/000723.395:VERBOSE1:device_event_log_impl.cc(198)] [00:07:23.395] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:23228:1019/000724.031:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/000729.157:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000730.432:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000731.432:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000732.440:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000733.443:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:23228:1019/000734.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000734.435:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000735.430:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=54})
+[50876:52396:1019/000736.443:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:52396:1019/000737.441:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:52396:1019/000738.444:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:23228:1019/000739.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000740.445:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:52396:1019/000741.443:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000743.433:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:23228:1019/000744.227:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000745.446:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/000747.454:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:23228:1019/000749.263:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000750.455:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=59})
+[50876:52396:1019/000753.458:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:23228:1019/000754.263:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000754.447:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:52396:1019/000756.461:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:52396:1019/000757.453:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:23228:1019/000759.320:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000800.462:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000803.448:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=59})
+[50876:23228:1019/000804.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000804.451:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:52396:1019/000805.462:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/000806.450:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:52396:1019/000807.449:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:52396:1019/000808.454:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:23228:1019/000809.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000809.450:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=59})
+[50876:52396:1019/000810.464:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=56})
+[50876:52396:1019/000811.459:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000812.465:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:52396:1019/000813.465:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/000814.463:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:23228:1019/000814.464:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000815.456:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000816.463:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000817.457:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/000819.468:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=42})
+[50876:23228:1019/000819.468:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000820.473:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/000821.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/000822.474:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:52396:1019/000823.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:23228:1019/000824.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000825.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/000829.466:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:23228:1019/000829.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000830.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=53})
+[50876:52396:1019/000831.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=55})
+[50876:52396:1019/000832.464:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=58})
+[50876:52396:1019/000833.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:52396:1019/000834.466:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:23228:1019/000834.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000835.797:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000836.798:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000837.800:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000838.800:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:23228:1019/000839.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000839.800:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/000841.805:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/000842.804:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/000844.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000848.801:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:23228:1019/000849.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000849.804:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000850.802:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/000851.810:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:23228:1019/000854.473:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000855.803:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000858.806:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:23228:1019/000859.474:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000900.811:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/000901.807:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000903.812:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:23228:1019/000904.474:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000905.808:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000906.813:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000907.809:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/000908.812:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:23228:1019/000909.475:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000909.809:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000910.812:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:52396:1019/000911.805:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000913.809:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:23228:1019/000914.475:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000914.814:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000915.813:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000916.812:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:52396:1019/000917.811:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000918.810:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/000919.480:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000920.814:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000921.811:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/000923.810:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:23228:1019/000924.480:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000924.814:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000925.819:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/000926.816:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000927.817:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/000929.481:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000930.813:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000931.814:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/000932.812:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:52396:1019/000933.813:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:23228:1019/000934.485:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000935.820:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000937.818:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000938.820:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:23228:1019/000939.484:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000940.823:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/000941.823:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/000942.833:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:23228:1019/000944.488:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000945.828:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000946.818:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/000947.822:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/000948.831:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/000950.822:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/000951.821:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/000952.825:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:23228:1019/000954.494:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/000954.830:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/000955.824:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/000956.823:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:52396:1019/000957.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:52396:1019/000959.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/001004.494:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001009.496:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001009.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/001010.828:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=59})
+[50876:52396:1019/001011.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=60})
+[50876:52396:1019/001012.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=59})
+[50876:23228:1019/001014.501:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001014.830:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:52396:1019/001015.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:52396:1019/001016.828:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/001018.831:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:23228:1019/001019.500:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001019.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/001020.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:52396:1019/001021.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:52396:1019/001022.833:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/001023.833:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:23228:1019/001024.500:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001024.830:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/001026.830:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/001027.831:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:52396:1019/001028.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:23228:1019/001029.509:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001030.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/001031.834:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/001032.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001033.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:23228:1019/001034.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001036.838:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001038.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:23228:1019/001039.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001039.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001040.839:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:52396:1019/001042.839:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/001044.834:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:23228:1019/001044.834:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001045.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=62})
+[50876:52396:1019/001046.835:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/001047.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001048.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/001049.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001050.838:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001051.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001054.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/001054.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001055.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001056.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001057.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001059.838:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/001059.841:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001101.840:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001103.844:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:23228:1019/001104.844:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001104.845:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001105.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001107.843:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:23228:1019/001109.847:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001110.843:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/001111.845:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:23228:1019/001114.847:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001115.844:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001116.848:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001117.845:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001118.848:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001119.846:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:23228:1019/001119.846:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001121.850:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001122.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/001123.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001124.849:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/001124.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001126.850:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001127.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001128.852:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:23228:1019/001129.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001130.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001131.853:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=66})
+[50876:52396:1019/001132.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001133.879:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/001134.853:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=69})
+[50876:23228:1019/001134.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001136.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/001138.854:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001139.856:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/001139.856:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001144.857:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001149.858:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/001149.858:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001150.856:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001151.861:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001152.865:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001153.857:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:23228:1019/001154.859:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001156.857:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:52396:1019/001157.865:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001158.860:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/001159.855:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:23228:1019/001159.859:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001200.863:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001201.862:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/001202.860:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001204.861:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/001204.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001205.860:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001206.864:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001209.865:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:23228:1019/001209.866:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001210.867:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001211.861:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001212.862:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:52396:1019/001213.865:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001214.865:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=68})
+[50876:23228:1019/001214.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001215.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=65})
+[50876:52396:1019/001216.863:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:52396:1019/001217.870:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=63})
+[50876:52396:1019/001218.864:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=64})
+[50876:23228:1019/001219.866:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001220.867:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=67})
+[50876:52396:1019/001221.870:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=70})
+[50876:52396:1019/001222.869:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=71})
+[50876:23228:1019/001224.866:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001225.863:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/001226.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001227.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/001228.863:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:23228:1019/001229.866:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001230.867:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/001231.866:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001232.866:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001233.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/001234.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:23228:1019/001234.868:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001235.873:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001236.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/001239.868:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001244.875:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001246.873:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/001247.871:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001249.872:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:23228:1019/001249.875:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001250.882:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001251.871:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/001252.876:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/001254.875:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:23228:1019/001254.875:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001255.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/001257.875:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/001259.876:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:23228:1019/001259.877:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001301.881:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/001303.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/001304.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:23228:1019/001304.880:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001306.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/001308.884:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:23228:1019/001309.883:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001311.883:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/001312.884:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001313.882:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/001314.883:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001315.884:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001316.888:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:52396:1019/001317.881:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/001318.888:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001319.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:23228:1019/001319.885:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001322.883:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/001323.886:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001324.887:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:23228:1019/001324.888:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001325.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=74})
+[50876:52396:1019/001326.882:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=75})
+[50876:52396:1019/001328.887:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:52396:1019/001329.887:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:23228:1019/001329.888:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001330.890:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/001332.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:23228:1019/001334.893:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001337.893:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=77})
+[50876:23228:1019/001339.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001340.888:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/001341.887:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:52396:1019/001342.892:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=81})
+[50876:23228:1019/001344.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001345.890:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/001349.895:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001354.896:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001357.894:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=81})
+[50876:52396:1019/001359.898:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:23228:1019/001359.898:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001400.906:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/001402.899:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/001404.898:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001409.899:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001412.910:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=78})
+[50876:52396:1019/001414.905:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=76})
+[50876:23228:1019/001415.234:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001416.905:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/001420.234:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001425.234:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001430.233:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001435.234:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001440.234:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001445.237:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001455.237:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001505.238:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001510.238:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001515.239:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001520.239:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001525.241:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001530.242:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001535.242:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001540.242:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001545.242:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001550.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001555.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001625.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001630.247:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001635.247:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001640.247:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001645.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001650.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001655.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001700.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001705.249:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:23228:1019/001710.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/001726.941:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=57})
+[50876:52396:1019/001727.940:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=61})
+[50876:52396:1019/001728.937:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:52396:1019/001915.278:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=81})
+[50876:52396:1019/001916.278:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=83})
+[50876:52396:1019/001920.279:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=84})
+[50876:52396:1019/001921.280:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:52396:1019/001954.282:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=81})
+[50876:52396:1019/001956.285:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=80})
+[50876:52396:1019/001958.283:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=79})
+[50876:52396:1019/001959.283:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:52396:1019/002130.298:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/002131.295:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=73})
+[50876:52396:1019/002133.298:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=72})
+[50876:52396:1019/002134.299:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=100})
+[50876:23228:1019/002220.061:VERBOSE1:device_event_log_impl.cc(198)] [00:22:20.033] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[50876:23228:1019/002220.063:VERBOSE1:device_event_log_impl.cc(198)] [00:22:20.065] Display: EVENT: screen_win.cc:895 Display[2368603649] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[50876:23228:1019/002225.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/002227.114:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=45})
+[50876:52396:1019/002228.153:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/002229.107:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/002230.113:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=38})
+[50876:23228:1019/002230.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/002231.136:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=37})
+[50876:52396:1019/002232.104:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=41})
+[50876:52396:1019/002233.106:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=43})
+[50876:52396:1019/002234.113:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=44})
+[50876:52396:1019/002235.124:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:23228:1019/002235.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/002237.120:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=47})
+[50876:52396:1019/002238.121:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:52396:1019/002239.115:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[50876:52396:1019/002240.119:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=52})
+[50876:23228:1019/002240.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/002242.110:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:52396:1019/002245.131:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=50})
+[50876:52396:1019/002246.114:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:52396:1019/002247.121:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/002250.119:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=46})
+[50876:23228:1019/002250.906:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[50876:52396:1019/002251.129:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/002252.128:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=49})
+[50876:52396:1019/002253.117:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=48})
+[50876:52396:1019/002254.119:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00004CA4000BED40}, {new_limit=51})
+[43736:48504:1019/002323.197:VERBOSE1:frame_impl.cc(620)] frame 6-45C31C46B811762B588A832FEC99492F disconnected (reason=RENDER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[43736:48504:1019/002323.200:VERBOSE1:frame_impl.cc(633)] frame 6-45C31C46B811762B588A832FEC99492F connection retry scheduled
+[43736:48504:1019/002323.210:VERBOSE1:frame_impl.cc(620)] frame 6-B836BC6997DCDA86749FD7A785E7355C disconnected (reason=RENDER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[43736:48504:1019/002323.210:VERBOSE1:frame_impl.cc(633)] frame 6-B836BC6997DCDA86749FD7A785E7355C connection retry scheduled

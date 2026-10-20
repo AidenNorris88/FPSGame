@@ -1,0 +1,161 @@
+[57056:61804:1019/111949.874:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[57056:72664:1019/111950.407:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[57056:61804:1019/111950.708:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[65916:67936:1019/112012.264:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112012.365:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112013.070:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112013.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112014.278:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112014.291:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:72664:1019/112014.585:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[57056:72664:1019/112014.596:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[57056:72664:1019/112014.604:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[57056:72664:1019/112014.614:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[65916:67936:1019/112015.908:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112015.917:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112016.163:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112016.177:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112016.826:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112016.833:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112017.133:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112017.141:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112017.674:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112017.911:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112017.921:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:72676:1019/112018.068:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[57056:72676:1019/112018.076:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[65916:67936:1019/112018.221:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112018.229:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[72156:72088:1019/112018.901:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-224B808432402041DFDB4BB57523B6A4 will be ignored
+[65916:67936:1019/112018.946:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112018.955:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112019.314:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112019.329:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112020.105:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112020.117:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112021.257:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112021.267:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112023.354:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112023.364:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112024.008:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112024.020:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112024.097:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112024.105:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112027.181:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112028.413:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112028.415:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112028.429:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112028.430:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112031.542:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112031.551:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112032.181:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112034.525:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112034.533:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112034.541:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112034.623:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112037.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112042.202:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112042.836:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112042.845:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112043.732:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112043.743:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112045.764:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112045.775:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112047.204:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112052.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112057.208:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112059.551:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112059.566:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112059.635:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112059.650:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112102.208:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112102.690:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112102.705:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112107.210:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112112.210:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112117.210:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112122.216:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112122.368:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112122.393:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112122.522:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112122.531:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112126.966:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112126.984:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112127.219:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112132.237:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112137.236:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112142.237:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112147.238:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112152.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112157.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112157.411:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112157.419:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112157.852:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112157.863:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112201.857:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112201.867:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112202.247:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112207.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112212.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112217.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112222.274:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112227.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112232.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112237.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112242.290:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112245.951:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112245.968:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112247.290:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112247.880:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112247.892:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112252.307:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112253.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112253.450:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112257.357:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112302.378:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112307.377:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112312.443:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112317.378:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112322.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112327.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112332.383:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112337.400:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112342.401:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112347.401:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112352.452:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112357.468:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112402.468:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112405.534:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112405.541:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112407.486:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112408.836:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112408.848:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112410.770:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112410.778:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[57056:61804:1019/112412.486:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112417.486:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112422.487:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112427.487:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112432.504:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112437.504:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112442.504:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112447.506:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112452.507:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112457.508:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112502.525:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112507.524:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112512.576:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112517.592:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112522.593:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112527.626:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112532.678:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112537.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112542.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112547.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[57056:61804:1019/112552.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[65916:67936:1019/112603.718:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112603.727:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112608.491:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112608.517:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112612.477:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[65916:67936:1019/112612.494:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
