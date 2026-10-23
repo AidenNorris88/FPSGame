@@ -1,28 +1,192 @@
-[24132:58552:1020/124403.284:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24132:14344:1020/124403.817:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24132:58552:1020/124404.050:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24132:14344:1020/124424.569:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24132:14344:1020/124424.578:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24132:14344:1020/124424.586:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24132:14344:1020/124424.590:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24132:14344:1020/124444.412:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24132:14344:1020/124444.417:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32172:11408:1020/124445.747:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-473E4BD349E646FF3BADC7BA962E001B will be ignored
-[24132:58552:1020/124448.401:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124508.410:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124654.107:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124719.430:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124729.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124739.435:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124744.438:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124749.439:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124754.442:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124759.447:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124804.446:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124809.446:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124814.446:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124819.684:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124824.687:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124830.017:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124837.480:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24132:58552:1020/124838.458:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19052:18832:1023/020111.444:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23808:25168:1023/020111.887:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19052:17696:1023/020112.155:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23808:23100:1023/020112.158:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23808:25168:1023/020112.475:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19052:18832:1023/020112.500:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19052:17696:1023/020137.416:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19052:17696:1023/020137.438:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19052:17696:1023/020137.455:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19052:17696:1023/020137.466:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19052:17696:1023/020142.418:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19052:17696:1023/020142.425:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9544:9400:1023/020144.145:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D0B01D4D5045C225DDC6C6D5FE9BCB16 will be ignored
+[12708:26676:1023/020144.415:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A94D45345477D4FA3A4B168D86472F86 will be ignored
+[19052:688:1023/020144.672:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23808:25324:1023/020145.112:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21944:1864:1023/020147.173:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21944:26460:1023/020147.276:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21944:26460:1023/020147.277:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21944:26460:1023/020147.289:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8392:20328:1023/020147.362:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8392:20328:1023/020147.363:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8392:20328:1023/020147.363:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8392:20328:1023/020147.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21944:26460:1023/020147.419:WARNING:stun_port.cc(442)] Port[1059400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.419:WARNING:stun_port.cc(442)] Port[1059c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.419:WARNING:stun_port.cc(442)] Port[105a400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.419:WARNING:stun_port.cc(442)] Port[1059400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.419:WARNING:stun_port.cc(442)] Port[1059c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.420:WARNING:stun_port.cc(442)] Port[105a400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.420:WARNING:stun_port.cc(442)] Port[1059400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.420:WARNING:stun_port.cc(442)] Port[1059c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21944:26460:1023/020147.421:WARNING:stun_port.cc(442)] Port[105a400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23808:25168:1023/020147.768:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[23808:25168:1023/020147.768:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[23808:25168:1023/020147.768:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[23808:25168:1023/020147.768:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[23808:25324:1023/020147.892:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[17456:24360:1023/020147.946:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17456:17856:1023/020148.046:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17456:17856:1023/020148.046:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17456:17856:1023/020148.050:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3976:22828:1023/020148.453:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[3976:22828:1023/020148.457:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[3976:22828:1023/020148.457:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[3976:22828:1023/020148.458:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[3976:22828:1023/020148.458:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[3976:22828:1023/020148.458:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[3976:22828:1023/020148.458:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[3976:22828:1023/020148.458:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[3976:22828:1023/020148.460:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[3976:22828:1023/020148.461:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[3976:22828:1023/020148.461:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[3976:22828:1023/020148.461:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[22496:8748:1023/020148.486:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22496:21040:1023/020148.800:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22496:21040:1023/020148.803:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22496:21040:1023/020148.804:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17456:17856:1023/020148.833:WARNING:stun_port.cc(442)] Port[a33800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[a31000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[e9c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[a33800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[a31000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[e9c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[a33800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[a31000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17456:17856:1023/020148.834:WARNING:stun_port.cc(442)] Port[e9c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[8392:20328:1023/020148.855:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8392:20328:1023/020148.855:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8392:20328:1023/020148.855:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8392:20328:1023/020148.855:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[22496:21040:1023/020148.856:WARNING:stun_port.cc(442)] Port[110c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.856:WARNING:stun_port.cc(442)] Port[110c400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.856:WARNING:stun_port.cc(442)] Port[110cc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[8392:20328:1023/020148.858:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8392:20328:1023/020148.858:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8392:20328:1023/020148.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[8392:20328:1023/020148.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[8392:20328:1023/020148.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[8392:20328:1023/020148.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[8392:20328:1023/020148.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[8392:20328:1023/020148.860:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[22496:21040:1023/020148.864:WARNING:stun_port.cc(442)] Port[110c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.865:WARNING:stun_port.cc(442)] Port[110c400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.865:WARNING:stun_port.cc(442)] Port[110cc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.865:WARNING:stun_port.cc(442)] Port[110c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.865:WARNING:stun_port.cc(442)] Port[110c400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:21040:1023/020148.865:WARNING:stun_port.cc(442)] Port[110cc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19052:688:1023/020149.443:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[19052:18832:1023/020150.204:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19052:18832:1023/020150.204:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19052:18832:1023/020150.205:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19052:18832:1023/020150.205:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19052:688:1023/020150.486:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[26504:25548:1023/020152.757:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26504:10096:1023/020152.937:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26504:10096:1023/020152.938:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26504:10096:1023/020152.940:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3976:22828:1023/020153.983:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[3976:22828:1023/020153.984:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[3976:22828:1023/020153.984:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[3976:22828:1023/020153.986:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[3976:22828:1023/020153.987:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fb000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fb800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fbc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fb000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fb800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fbc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fb000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fb800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[26504:10096:1023/020153.988:WARNING:stun_port.cc(442)] Port[13fbc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[22496:8748:1023/020155.845:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26504:25548:1023/020156.808:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23808:25168:1023/020204.348:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020204.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020209.347:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020209.433:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020214.375:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020214.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020219.401:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020219.433:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020224.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020224.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020229.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020229.494:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020234.503:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020234.754:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020239.508:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020239.753:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020244.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020244.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020249.511:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020249.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020254.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020254.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020259.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020259.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020304.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020304.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020309.513:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020309.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020314.513:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020314.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020319.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020319.762:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020324.513:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020324.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020329.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020329.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020334.513:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020334.763:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020339.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020339.764:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020344.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020344.764:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020349.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020349.765:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020354.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/020354.765:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020359.514:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/020404.529:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/021235.521:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021237.587:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/021240.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021242.586:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/021245.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021247.586:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/021350.533:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021352.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/021355.532:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021357.592:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021607.947:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19052:18832:1023/021610.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/021612.947:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23808:25168:1023/023805.261:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19052:18832:1023/023813.386:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

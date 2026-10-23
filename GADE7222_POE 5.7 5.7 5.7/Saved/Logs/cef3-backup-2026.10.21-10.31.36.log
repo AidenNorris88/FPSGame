@@ -1,0 +1,152 @@
+[69584:80408:1021/104756.932:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3856:105016:1021/104756.932:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3856:46464:1021/104802.135:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3856:105016:1021/104802.446:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[155056:95716:1021/104823.744:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104823.752:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:46464:1021/104824.160:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3856:46464:1021/104824.164:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3856:46464:1021/104824.166:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3856:46464:1021/104824.167:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Dell 5530\OneDrive\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[155056:95716:1021/104824.454:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104824.456:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104824.466:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104824.466:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.084:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.092:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.357:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.367:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/104825.747:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[155056:95716:1021/104825.863:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.882:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.958:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104825.976:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:46464:1021/104826.121:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3856:46464:1021/104826.125:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[155056:95716:1021/104826.778:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104826.802:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104827.242:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104827.251:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104827.773:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104827.816:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[199520:213908:1021/104827.937:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[199520:213908:1021/104827.937:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[199520:213908:1021/104827.937:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[199520:213908:1021/104827.937:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
+[53488:83408:1021/104827.944:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-93172234F9169D9F6065B309198AE540 will be ignored
+[155056:95716:1021/104828.803:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104828.815:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[199520:213908:1021/104828.982:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[155056:95716:1021/104829.439:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104829.452:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/104830.184:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[155056:95716:1021/104830.908:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104830.921:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104832.104:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104832.121:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104832.389:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104832.395:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104834.945:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104834.952:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/104835.216:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[155056:95716:1021/104836.235:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104836.245:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104837.187:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104837.195:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/104840.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[155056:95716:1021/104841.309:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104841.321:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104842.688:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104842.697:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104844.092:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104844.113:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/104845.251:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3856:105016:1021/104850.303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[155056:95716:1021/104851.484:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104851.493:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104853.978:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104853.986:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104854.078:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104854.090:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/104855.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3856:105016:1021/104900.372:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3856:105016:1021/104905.394:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[155056:95716:1021/104906.500:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104906.507:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104907.931:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104907.940:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104908.892:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104908.909:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104929.961:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104929.984:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104931.957:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104931.972:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104932.632:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/104932.645:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105001.740:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105001.758:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105005.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105005.128:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105006.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105006.123:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105053.423:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105053.432:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105057.571:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105057.580:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105101.311:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105101.325:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105212.567:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105212.575:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105215.683:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105215.692:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105215.698:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105215.707:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105359.909:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105359.924:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105413.177:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105413.187:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105417.249:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105417.260:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105707.705:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105707.722:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105710.468:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105710.475:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105712.488:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/105712.500:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110117.829:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110117.839:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110122.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110122.062:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110148.795:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110148.804:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3856:105016:1021/110425.832:ERROR:device_event_log_impl.cc(196)] [11:04:25.814] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[155056:95716:1021/110729.564:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110729.577:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110821.350:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110821.362:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110859.354:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/110859.365:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/111649.370:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/111649.377:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/111729.006:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/111729.016:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/111929.187:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/111929.195:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/113100.305:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/113100.318:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/113346.038:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/113346.047:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/113540.157:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/113540.168:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/115434.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/115434.153:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/115715.986:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/115715.996:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/115732.735:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/115732.745:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/122748.707:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/122748.715:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/122946.521:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/122946.532:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/123136.044:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[155056:95716:1021/123136.057:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
