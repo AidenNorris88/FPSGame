@@ -1,52 +1,0 @@
-[34132:5892:1018/193317.670:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[34132:1128:1018/193318.263:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[34132:5892:1018/193318.648:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[34132:29040:1018/193349.194:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34132:29040:1018/193349.201:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34132:29040:1018/193349.209:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34132:29040:1018/193349.216:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34132:1128:1018/193405.171:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34132:1128:1018/193405.177:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4172:31752:1018/193406.163:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-16CEC55E81B1095A1DB2A8BE1EB2B551 will be ignored
-[34132:5892:1018/193453.817:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193609.047:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193614.054:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193619.054:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193624.062:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193629.074:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193630.958:ERROR:device_event_log_impl.cc(196)] [19:36:30.943] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[34132:5892:1018/193639.107:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193644.118:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193649.128:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193654.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193659.186:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193704.213:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[27480:29328:1018/193711.961:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-6D792F64B9760A67CC642EBCEF14ADA7 will be ignored
-[34132:5892:1018/193724.222:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193729.223:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193734.469:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193739.464:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193744.485:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193749.499:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193754.498:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193759.521:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193804.520:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193809.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193814.521:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193819.521:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193824.534:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193829.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193834.541:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193839.559:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193844.635:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193849.945:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193854.874:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/193859.944:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/200543.388:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/200548.405:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/200553.415:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/200558.460:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/200604.939:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[34132:5892:1018/201805.956:ERROR:device_event_log_impl.cc(196)] [20:18:05.945] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[34132:5892:1018/201805.974:ERROR:device_event_log_impl.cc(196)] [20:18:05.960] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
-[34132:5892:1018/213548.627:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,45 @@
+[95572:29136:1023/190301.051:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[95572:87712:1023/190301.557:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[95572:29136:1023/190301.737:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[95572:90108:1023/190314.294:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[95572:90108:1023/190314.303:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[95572:90108:1023/190314.309:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[95572:90108:1023/190314.315:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[95572:87712:1023/190321.380:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[95572:87712:1023/190321.389:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[93276:25672:1023/190322.159:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FE747A8B9AAA504BDABA194C9CEAA426 will be ignored
+[95572:86968:1023/190754.725:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=48})
+[95572:86968:1023/190755.724:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=44})
+[95572:86968:1023/190757.723:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=46})
+[95572:86968:1023/190758.722:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=51})
+[95572:86968:1023/190759.722:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=56})
+[95572:86968:1023/190800.724:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=100})
+[95572:29136:1023/190850.898:VERBOSE1:device_event_log_impl.cc(198)] [19:08:50.884] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[95572:29136:1023/190850.899:VERBOSE1:device_event_log_impl.cc(198)] [19:08:50.898] Display: EVENT: screen_win.cc:895 Display[3915765567] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[95572:86968:1023/190859.539:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=63})
+[95572:86968:1023/190900.625:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=64})
+[95572:86968:1023/190901.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=66})
+[95572:86968:1023/190902.553:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=69})
+[95572:86968:1023/190903.580:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=70})
+[95572:86968:1023/190904.545:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=69})
+[95572:86968:1023/190905.541:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=68})
+[95572:86968:1023/190906.547:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=67})
+[95572:86968:1023/190907.540:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=66})
+[95572:86968:1023/190909.548:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=68})
+[95572:86968:1023/190910.537:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=66})
+[95572:86968:1023/190911.549:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=62})
+[95572:86968:1023/190912.550:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=61})
+[95572:86968:1023/190913.553:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=60})
+[95572:86968:1023/190914.552:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=61})
+[95572:86968:1023/190915.551:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=60})
+[95572:86968:1023/190918.666:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=62})
+[95572:86968:1023/190919.666:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=100})
+[95572:29136:1023/190933.771:VERBOSE1:device_event_log_impl.cc(198)] [19:09:33.771] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[95572:29136:1023/190933.772:VERBOSE1:device_event_log_impl.cc(198)] [19:09:33.771] Display: EVENT: screen_win.cc:895 Display[3915765567] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[95572:86968:1023/190939.573:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=39})
+[95572:86968:1023/190940.574:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=40})
+[95572:86968:1023/190941.906:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000051AC022B2D40}, {new_limit=41})
+[88292:93960:1023/191000.752:VERBOSE1:frame_impl.cc(620)] frame 6-B5257724994D2DCCE034A24E24262B62 disconnected (reason=RENDER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[88292:93960:1023/191000.754:VERBOSE1:frame_impl.cc(633)] frame 6-B5257724994D2DCCE034A24E24262B62 connection retry scheduled
+[88292:93960:1023/191000.761:VERBOSE1:frame_impl.cc(620)] frame 6-517E19E5451D67F976CF473D7D179FC2 disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[88292:93960:1023/191000.762:VERBOSE1:frame_impl.cc(633)] frame 6-517E19E5451D67F976CF473D7D179FC2 connection retry scheduled

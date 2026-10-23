@@ -1,0 +1,6 @@
+Breadcrumbs 'RHIThread'
+ - Nanite::Readback
+ - Nanite::Streaming
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 43804

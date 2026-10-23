@@ -1,0 +1,8 @@
+Breadcrumbs 'Parallel'
+ - MainPass
+ - Nanite::DrawGeometry
+ - Nanite::VisBuffer
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 2546
