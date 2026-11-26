@@ -1,3 +1,5 @@
-2026/11/26-19:10:31.129 4e9c Reusing MANIFEST C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/11/26-19:10:31.151 4e9c Recovering log #327
-2026/11/26-19:10:31.157 4e9c Reusing old log C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/000327.log 
+2026/11/26-22:43:38.969 c074 Reusing MANIFEST C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/26-22:43:39.014 c074 Recovering log #327
+2026/11/26-22:43:39.015 c074 Level-0 table #330: started
+2026/11/26-22:43:39.030 c074 Level-0 table #330: 62925 bytes OK
+2026/11/26-22:43:39.044 c074 Delete type=0 #327
