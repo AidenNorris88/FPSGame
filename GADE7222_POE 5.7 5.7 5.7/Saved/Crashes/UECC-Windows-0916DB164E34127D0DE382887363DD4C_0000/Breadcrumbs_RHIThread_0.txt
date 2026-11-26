@@ -1,0 +1,4 @@
+Breadcrumbs 'RHIThread'
+ - FRDGBuilder::SubmitBufferUploads
+ - RenderGraphExecute - UpdateAllPrimitiveSceneInfos
+ - Frame 267430

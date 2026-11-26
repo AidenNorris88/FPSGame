@@ -1,0 +1,321 @@
+[36644:67356:1125/174336.768:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36644:60456:1125/174337.394:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36644:67356:1125/174337.657:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36644:60456:1125/174359.479:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36644:60456:1125/174359.487:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36644:60456:1125/174359.492:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36644:60456:1125/174359.497:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Damon\OneDrive - ADvTECH Ltd\Documents\GitHub\FPSGame\GADE7222_POE 5.7 5.7 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36644:60456:1125/174407.627:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36644:60456:1125/174407.630:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[64128:62096:1125/174408.628:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-589A131EF7725BD2210544CEB5624A85 will be ignored
+[36644:66276:1125/174409.544:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[63412:66820:1125/174411.533:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[63412:66104:1125/174411.602:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[63412:66104:1125/174411.603:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[63412:66104:1125/174411.604:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[61024:3632:1125/174412.307:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174412.309:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174412.311:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174412.315:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174412.315:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174412.321:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174412.327:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174412.327:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174412.327:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174412.327:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174412.327:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174412.327:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[63412:66104:1125/174412.328:WARNING:stun_port.cc(442)] Port[13b1000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.328:WARNING:stun_port.cc(442)] Port[13b0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.328:WARNING:stun_port.cc(442)] Port[a22000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.328:WARNING:stun_port.cc(442)] Port[13b1000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.328:WARNING:stun_port.cc(442)] Port[13b0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.328:WARNING:stun_port.cc(442)] Port[a22000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[61024:3632:1125/174412.414:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[61024:3632:1125/174412.415:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[61024:3632:1125/174412.415:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[63412:66104:1125/174412.416:WARNING:stun_port.cc(442)] Port[13b1000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.416:WARNING:stun_port.cc(442)] Port[13b0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[63412:66104:1125/174412.416:WARNING:stun_port.cc(442)] Port[a22000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[36644:66276:1125/174413.301:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[36644:67356:1125/174413.624:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36644:67356:1125/174413.624:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36644:67356:1125/174413.624:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36644:67356:1125/174413.624:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36644:66276:1125/174413.962:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[53008:61328:1125/174415.621:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:63548:1125/174415.752:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:63548:1125/174415.753:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:63548:1125/174415.753:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[61024:3632:1125/174415.980:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174415.982:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174415.987:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174415.987:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174415.987:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174415.987:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174415.987:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174415.988:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174415.988:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174415.988:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[53008:63548:1125/174415.990:WARNING:stun_port.cc(442)] Port[1b06800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174415.990:WARNING:stun_port.cc(442)] Port[1b07000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174415.990:WARNING:stun_port.cc(442)] Port[1b07800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174415.990:WARNING:stun_port.cc(442)] Port[1b06800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174415.990:WARNING:stun_port.cc(442)] Port[1b07000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174415.990:WARNING:stun_port.cc(442)] Port[1b07800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[61024:3632:1125/174416.145:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174416.160:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174416.160:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[61024:3632:1125/174416.160:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[61024:3632:1125/174416.160:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[53008:63548:1125/174416.160:WARNING:stun_port.cc(442)] Port[1b06800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174416.160:WARNING:stun_port.cc(442)] Port[1b07000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174416.161:WARNING:stun_port.cc(442)] Port[1b07800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:61328:1125/174424.537:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:61328:1125/174424.559:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:63548:1125/174424.576:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:63548:1125/174424.577:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[53008:63548:1125/174424.577:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[61024:3632:1125/174424.650:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174424.651:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174424.651:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174424.660:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174424.660:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174424.661:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[53008:63548:1125/174424.661:WARNING:stun_port.cc(442)] Port[1b07400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[53008:63548:1125/174424.661:WARNING:stun_port.cc(442)] Port[1b06800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174424.661:WARNING:stun_port.cc(442)] Port[1b07800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174424.661:WARNING:stun_port.cc(442)] Port[1b07400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174424.661:WARNING:stun_port.cc(442)] Port[1b06800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174424.661:WARNING:stun_port.cc(442)] Port[1b07800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174424.661:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[61024:3632:1125/174424.662:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[53008:63548:1125/174424.662:WARNING:stun_port.cc(442)] Port[1b07400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174424.662:WARNING:stun_port.cc(442)] Port[1b06800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[53008:63548:1125/174424.662:WARNING:stun_port.cc(442)] Port[1b07800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[36644:67356:1125/174603.501:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[36644:67356:1125/174608.502:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[36644:67356:1125/174613.522:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[36644:67356:1125/174618.551:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[49636:66612:1125/174631.202:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[36644:66276:1125/180007.050:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=40})
+[36644:66276:1125/180008.048:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=41})
+[36644:66276:1125/180009.048:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=45})
+[36644:66276:1125/180010.045:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[36644:66276:1125/180020.048:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=57})
+[36644:66276:1125/180021.064:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180023.053:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180024.055:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180025.055:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=49})
+[36644:66276:1125/180026.056:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180028.053:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180029.053:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=49})
+[36644:67356:1125/180029.685:VERBOSE1:device_event_log_impl.cc(198)] [18:00:29.659] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[36644:67356:1125/180029.685:VERBOSE1:device_event_log_impl.cc(198)] [18:00:29.685] Display: EVENT: screen_win.cc:895 Display[3788601811] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[36644:66276:1125/180031.805:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180032.806:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180033.805:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=47})
+[36644:66276:1125/180034.817:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180035.816:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180037.814:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=45})
+[61024:3632:1125/180037.839:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180038.817:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=47})
+[36644:66276:1125/180039.820:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180040.820:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180041.817:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180042.815:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180044.827:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180045.818:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=53})
+[36644:66276:1125/180046.827:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180047.825:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180050.825:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180052.823:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180054.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=49})
+[36644:66276:1125/180056.832:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180057.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=53})
+[36644:66276:1125/180058.838:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180059.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=56})
+[36644:66276:1125/180100.829:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[36644:66276:1125/180101.837:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=57})
+[36644:66276:1125/180104.835:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[36644:66276:1125/180105.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180107.838:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[61024:3632:1125/180109.314:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180109.836:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=56})
+[36644:66276:1125/180110.843:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180111.838:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=56})
+[36644:66276:1125/180113.023:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180114.018:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=57})
+[36644:66276:1125/180115.020:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[61024:3632:1125/180116.415:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180125.021:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[36644:66276:1125/180126.025:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=60})
+[36644:67356:1125/180126.559:VERBOSE1:device_event_log_impl.cc(198)] [18:01:26.560] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[36644:67356:1125/180126.560:VERBOSE1:device_event_log_impl.cc(198)] [18:01:26.560] Display: EVENT: screen_win.cc:895 Display[3788601811] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[36644:66276:1125/180126.846:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180127.847:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[36644:66276:1125/180128.846:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180129.849:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=55})
+[36644:67356:1125/180132.008:VERBOSE1:device_event_log_impl.cc(198)] [18:01:32.007] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[36644:67356:1125/180132.008:VERBOSE1:device_event_log_impl.cc(198)] [18:01:32.008] Display: EVENT: screen_win.cc:895 Display[3788601811] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[36644:66276:1125/180132.062:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180132.848:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[36644:66276:1125/180133.856:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=56})
+[36644:66276:1125/180134.853:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=55})
+[36644:66276:1125/180135.850:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180136.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[36644:66276:1125/180137.853:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=63})
+[36644:66276:1125/180139.854:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=66})
+[36644:66276:1125/180140.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=67})
+[36644:66276:1125/180141.852:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=65})
+[36644:66276:1125/180142.855:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[36644:66276:1125/180143.853:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=65})
+[36644:66276:1125/180145.860:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=61})
+[36644:66276:1125/180146.867:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=57})
+[36644:66276:1125/180148.864:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=56})
+[36644:66276:1125/180149.868:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=55})
+[36644:66276:1125/180150.940:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180151.940:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=49})
+[36644:66276:1125/180152.934:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180153.929:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=53})
+[36644:66276:1125/180154.931:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180155.932:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180156.930:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180157.932:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=60})
+[36644:66276:1125/180158.932:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[36644:66276:1125/180200.938:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=66})
+[36644:66276:1125/180201.934:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=70})
+[36644:66276:1125/180202.934:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=71})
+[36644:66276:1125/180203.933:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=69})
+[36644:66276:1125/180204.936:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=71})
+[36644:66276:1125/180205.931:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=72})
+[61024:3632:1125/180206.079:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180208.937:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=71})
+[61024:3632:1125/180209.069:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:67356:1125/180209.823:VERBOSE1:device_event_log_impl.cc(198)] [18:02:09.823] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[36644:67356:1125/180209.823:VERBOSE1:device_event_log_impl.cc(198)] [18:02:09.823] Display: EVENT: screen_win.cc:895 Display[3788601811] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[36644:66276:1125/180209.939:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=70})
+[36644:66276:1125/180210.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=66})
+[36644:66276:1125/180211.881:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=63})
+[61024:3632:1125/180212.232:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180212.887:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[61024:3632:1125/180213.846:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180214.888:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=57})
+[61024:3632:1125/180215.070:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180215.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180216.893:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180217.881:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180219.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=45})
+[36644:66276:1125/180221.885:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=47})
+[36644:66276:1125/180224.896:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180225.894:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180226.895:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180227.895:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=53})
+[36644:66276:1125/180228.888:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=52})
+[36644:66276:1125/180231.895:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180232.895:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180233.897:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=50})
+[36644:66276:1125/180238.198:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=49})
+[36644:66276:1125/180238.198:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180238.199:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[36644:66276:1125/180238.199:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=41})
+[36644:66276:1125/180239.894:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=40})
+[36644:66276:1125/180240.894:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=42})
+[36644:66276:1125/180242.132:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=44})
+[36644:66276:1125/180243.130:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[36644:66276:1125/180244.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=41})
+[36644:66276:1125/180245.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=39})
+[61024:3632:1125/180245.476:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180246.129:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=40})
+[36644:66276:1125/180247.127:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[36644:66276:1125/180248.125:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180249.128:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=51})
+[36644:66276:1125/180250.128:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=55})
+[36644:66276:1125/180251.126:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[36644:66276:1125/180252.128:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[61024:3632:1125/180253.046:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180254.127:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=67})
+[36644:66276:1125/180255.127:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=72})
+[36644:66276:1125/180256.128:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[61024:3632:1125/180259.143:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[61024:3632:1125/180305.053:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[61024:3632:1125/180311.045:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[61024:3632:1125/180316.429:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180322.132:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[36644:66276:1125/180323.131:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=63})
+[36644:66276:1125/180324.133:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=64})
+[36644:66276:1125/180325.136:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=65})
+[36644:66276:1125/180326.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=64})
+[36644:66276:1125/180327.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=68})
+[36644:66276:1125/180328.136:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=66})
+[36644:66276:1125/180330.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=69})
+[36644:66276:1125/180331.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=70})
+[36644:66276:1125/180332.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=71})
+[36644:66276:1125/180333.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=72})
+[36644:66276:1125/180334.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=74})
+[36644:66276:1125/180335.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=75})
+[36644:66276:1125/180336.134:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=77})
+[36644:66276:1125/180338.140:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=79})
+[36644:66276:1125/180340.135:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=80})
+[36644:66276:1125/180341.136:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[61024:3632:1125/180349.858:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180351.141:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=69})
+[36644:66276:1125/180352.143:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=66})
+[36644:66276:1125/180353.140:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=61})
+[36644:66276:1125/180354.139:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=60})
+[36644:66276:1125/180355.139:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=59})
+[36644:66276:1125/180356.137:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180358.138:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=62})
+[36644:66276:1125/180359.137:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[36644:66276:1125/180409.139:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=75})
+[36644:66276:1125/180410.138:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[36644:67356:1125/180418.443:VERBOSE1:device_event_log_impl.cc(198)] [18:04:18.443] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[36644:67356:1125/180418.443:VERBOSE1:device_event_log_impl.cc(198)] [18:04:18.443] Display: EVENT: screen_win.cc:895 Display[3788601811] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[61024:3632:1125/180421.741:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180424.966:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180425.969:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180427.967:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=53})
+[36644:66276:1125/180428.968:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=54})
+[36644:66276:1125/180429.962:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=55})
+[36644:66276:1125/180430.965:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=56})
+[36644:66276:1125/180431.967:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=58})
+[36644:66276:1125/180433.118:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=61})
+[36644:66276:1125/180436.123:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=64})
+[36644:66276:1125/180437.119:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=65})
+[36644:66276:1125/180438.120:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[36644:66276:1125/180452.122:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=83})
+[36644:66276:1125/180454.122:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=82})
+[36644:66276:1125/180455.123:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=83})
+[36644:66276:1125/180456.123:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=100})
+[36644:67356:1125/180516.246:VERBOSE1:device_event_log_impl.cc(198)] [18:05:16.245] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[36644:67356:1125/180516.246:VERBOSE1:device_event_log_impl.cc(198)] [18:05:16.246] Display: EVENT: screen_win.cc:895 Display[3788601811] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[61024:3632:1125/180516.441:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180524.009:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=44})
+[36644:66276:1125/180525.009:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[61024:3632:1125/180525.861:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
+[36644:66276:1125/180526.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=42})
+[36644:66276:1125/180529.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=45})
+[36644:66276:1125/180531.011:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180532.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=47})
+[36644:66276:1125/180533.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=49})
+[36644:66276:1125/180534.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=48})
+[36644:66276:1125/180535.011:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180536.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=45})
+[36644:66276:1125/180537.013:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=46})
+[36644:66276:1125/180538.010:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=44})
+[36644:66276:1125/180539.011:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=42})
+[36644:66276:1125/180540.011:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[36644:66276:1125/180541.020:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=44})
+[36644:66276:1125/180543.019:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[36644:66276:1125/180544.095:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=45})
+[36644:66276:1125/180545.009:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=44})
+[36644:66276:1125/180547.174:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=43})
+[36644:66276:1125/180547.174:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=00005404000BED40}, {new_limit=44})
+[61024:3632:1125/180554.195:VERBOSE1:dns_query.cc(193)] Not supporting parsing a DNS query with multiple (or zero) questions.
